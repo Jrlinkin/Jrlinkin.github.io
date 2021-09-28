@@ -163,6 +163,7 @@ button.payment:hover{
     div.plan{
         width: 250px;
         margin-top: 10px;
+        background-color: hsl(225, 100%, 98%);
         
         
     }
@@ -181,7 +182,7 @@ button.payment:hover{
     }
     .change{
         font-size: 12px;
-        margin-right: -30px ;
+
         text-decoration: underline;
     }
 
