@@ -164,6 +164,7 @@ button.payment:hover{
         width: 250px;
         margin-top: 10px;
         background-color: hsl(225, 100%, 98%);
+        padding: 10px;
         
         
     }
